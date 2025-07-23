@@ -1,0 +1,1 @@
+# exportar_texto_longo_do_sap
